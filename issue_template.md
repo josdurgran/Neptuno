@@ -1,2 +1,2 @@
-##¿Pregunta?
+## ¿Pregunta?
 Explicacion de la pregunta.
